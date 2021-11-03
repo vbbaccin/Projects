@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "Assistant"
+		},
+		{
+			"path": "BedSensor"
+		},
+		{
+			"path": "BoxProject"
+		},
+		{
+			"path": "LightSensor"
+		},
+		{
+			"path": "ProximitySensorBLE"
+		},
+		{
+			"path": "ProximitySensorUltrasonic"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"functional": "cpp",
+			"string": "cpp"
+		}
+	}
+}
